@@ -9998,3 +9998,5 @@ elseif game.PlaceId == 2753915549 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/AllGameRM/Duck-Loader-A/main/Duck%20Loader%20Blox%20Fruit", true))()
 elseif game.PlaceId == 2629642516 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/AllGameRM/Duck-Loader-A/main/Duck%20Loader%20Miner", true))()
+elseif game.PlaceId == 286090429 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/AllGameRM/Duck-Loader-A/main/Duck%20Loader%20Arsneal", true))()
